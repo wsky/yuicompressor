@@ -1,0 +1,5 @@
+D:\wsky\yuicompressor\Code\Yahoo.Yui.Compressor\bin\Debug\Yahoo.Yui.Compressor.dll
+D:\wsky\yuicompressor\Code\Yahoo.Yui.Compressor\bin\Debug\Yahoo.Yui.Compressor.pdb
+D:\wsky\yuicompressor\Code\Yahoo.Yui.Compressor\obj\Debug\ResolveAssemblyReference.cache
+D:\wsky\yuicompressor\Code\Yahoo.Yui.Compressor\obj\Debug\Yahoo.Yui.Compressor.dll
+D:\wsky\yuicompressor\Code\Yahoo.Yui.Compressor\obj\Debug\Yahoo.Yui.Compressor.pdb

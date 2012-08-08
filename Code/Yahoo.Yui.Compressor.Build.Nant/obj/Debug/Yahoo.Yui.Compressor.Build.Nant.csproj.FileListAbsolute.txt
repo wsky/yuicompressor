@@ -1,0 +1,8 @@
+D:\wsky\yuicompressor\Code\Yahoo.Yui.Compressor.Build.Nant\bin\Debug\Yahoo.Yui.Compressor.Build.Nant.dll
+D:\wsky\yuicompressor\Code\Yahoo.Yui.Compressor.Build.Nant\bin\Debug\Yahoo.Yui.Compressor.Build.Nant.pdb
+D:\wsky\yuicompressor\Code\Yahoo.Yui.Compressor.Build.Nant\bin\Debug\NAnt.Core.dll
+D:\wsky\yuicompressor\Code\Yahoo.Yui.Compressor.Build.Nant\bin\Debug\Yahoo.Yui.Compressor.dll
+D:\wsky\yuicompressor\Code\Yahoo.Yui.Compressor.Build.Nant\bin\Debug\Yahoo.Yui.Compressor.pdb
+D:\wsky\yuicompressor\Code\Yahoo.Yui.Compressor.Build.Nant\obj\Debug\ResolveAssemblyReference.cache
+D:\wsky\yuicompressor\Code\Yahoo.Yui.Compressor.Build.Nant\obj\Debug\Yahoo.Yui.Compressor.Build.Nant.dll
+D:\wsky\yuicompressor\Code\Yahoo.Yui.Compressor.Build.Nant\obj\Debug\Yahoo.Yui.Compressor.Build.Nant.pdb
